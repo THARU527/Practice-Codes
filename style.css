@@ -1,0 +1,40 @@
+body{
+    background-color: #e6f3ff;
+}
+h2{
+    color:purple;
+}
+img{
+    float:right;
+    padding-bottom: 0px;
+}
+.topic{
+    font-size: 25px;
+    padding-top: 150px;
+    font-weight: bold;
+}
+.pricelist{
+    border:1px solid black;
+    
+}
+table{
+    border:1px solid black;
+    width:100%;
+}
+td,th{
+    text-align: left;
+    padding: 10px;
+}
+footer{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding: 3px;
+    background-color: orange;
+    position: fixed;
+    bottom:0;
+    left: 0;
+    width: 100%;
+}
+
+
